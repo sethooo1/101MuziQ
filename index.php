@@ -10,10 +10,10 @@
     <title>Cover Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="boostrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="cover.css" rel="stylesheet">
+    <link href="css/cover.css" rel="stylesheet">
   </head>
 
   <body>
@@ -26,11 +26,13 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Cover</h3>
+              <h3 class="masthead-brand">101MusiQ</h3>
               <nav class="nav nav-masthead">
                 <a class="nav-link active" href="#">Home</a>
                 <a class="nav-link" href="#">Features</a>
                 <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="#">Login</a>
+                <a class="nav-link" href="#">Register</a>
               </nav>
             </div>
           </div>
