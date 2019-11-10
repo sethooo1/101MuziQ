@@ -32,16 +32,45 @@
                 <a class="nav-link" href="#">Features</a>
                 <a class="nav-link" href="#">Contact</a>
                 <a class="nav-link" href="#">Login</a>
-                <a class="nav-link" href="#">Register</a>
               </nav>
             </div>
           </div>
 
+          <div class="site-middle">
+
+
+
+          <div class="col-sm-4 col-sm-offset-4">
+              <audio controls style="width: 200px;">
+                  <source src="music/1.mp3">
+              </audio>
+            </div>
+
+            <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card pull-right" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+</div>
+
           <div class="inner cover">
-            <h1 class="cover-heading">Cover your page.</h1>
-            <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+            <h1 class="cover-heading">Authentic Quality Music.</h1>
+            <p class="lead">Stream, Download, Buy.</p>
             <p class="lead">
-              <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
+              <a href="#" class="btn btn-lg btn-secondary">Register</a>
             </p>
           </div>
 

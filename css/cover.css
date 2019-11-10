@@ -46,11 +46,15 @@ body {
 }
 .site-wrapper-inner {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: inherit;
 }
 .cover-container {
   margin-right: auto;
   margin-left: auto;
+}
+
+.site-middle {
+  position: absolute;
 }
 
 /* Padding for spacing */
